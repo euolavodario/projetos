@@ -1,0 +1,15 @@
+#numero qualquer para tabuada do numero
+
+n = int(input('Digite um número: '))
+print('-'*20)
+print('01 x {} = {}'.format(n,n*1))
+print('02 x {} = {}'.format(n,n*2))
+print('03 x {} = {}'.format(n,n*3))
+print('04 x {} = {}'.format(n,n*4))
+print('05 x {} = {}'.format(n,n*5))
+print('06 x {} = {}'.format(n,n*6))
+print('07 x {} = {}'.format(n,n*7))
+print('08 x {} = {}'.format(n,n*8))
+print('09 x {} = {}'.format(n,n*9))
+print('10 x {} = {}'.format(n,n*10))
+print('-'*20)
